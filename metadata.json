@@ -1,0 +1,6 @@
+{
+  "name": "Abuja Hustle 3D: Dynamic Seasons",
+  "description": "Drive through Abuja picking up passengers in Okada, Cab, or Danfo bus featuring dynamic weather, thunderstorms, day-night cycles, and interactive roadside environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
